@@ -1,0 +1,6 @@
+{
+  "name": "દુકાન વ્યવસ્થાપક - દૈનિક વ્યાપાર અને સ્ટોક હિસાબ",
+  "description": "ગુજરાતી ભાષામાં દુકાનનું સરળ દૈનિક સંચાલન, આવક-જાવક, સ્ટોક, બિલિંગ, ભાવ વધઘટ અને માસિક નફા-નુકસાન અહેવાલ સાથે ઓફલાઇન એપ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

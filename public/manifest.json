@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "દુકાન વ્યવસ્થાપક - દૈનિક વ્યાપાર હિસાબ",
+  "short_name": "દુકાનહિસાબ",
+  "description": "ગુજરાતી ભાષામાં દુકાનનું સરળ દૈનિક સંચાલન, આવક-જાવક, સ્ટોક, બિલિંગ, ભાવ વધઘટ અને માસિક નફા-નુકસાન અહેવાલ સાથે ઓફલાઇન એપ.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f4",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
